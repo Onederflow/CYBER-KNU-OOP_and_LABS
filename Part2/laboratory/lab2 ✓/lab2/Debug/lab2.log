@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  lab2.cpp
+d:\university\main\programming\laboratory\lab2 ●\lab2\lab2.cpp(204): warning C4101: hdc: неиспользованная локальная переменная
+d:\university\main\programming\laboratory\lab2 ●\lab2\lab2.cpp(205): warning C4101: ps: неиспользованная локальная переменная
+d:\university\main\programming\laboratory\lab2 ●\lab2\lab2.cpp(221): warning C4101: str: неиспользованная локальная переменная
+  lab2.vcxproj -> D:\University\Main\Programming\laboratory\lab2 ●\Debug\lab2.exe
+  lab2.vcxproj -> D:\University\Main\Programming\laboratory\lab2 ●\Debug\lab2.pdb (Partial PDB)

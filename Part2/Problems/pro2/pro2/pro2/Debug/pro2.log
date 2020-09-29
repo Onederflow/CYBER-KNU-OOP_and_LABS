@@ -1,0 +1,49 @@
+﻿  Main.cpp
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(50): error C2653: MyForm: не является именем класса или пространства имен
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(50): error C2065: MyForm: необъявленный идентификатор
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(50): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "form"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(50): error C2065: form: необъявленный идентификатор
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(51): error C2065: form: необъявленный идентификатор
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): error C2011: Node: переопределение типа "struct"
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): note:  см. объявление "Node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(17): error C2084: функция "void add_node(Node *,Node *,int)" уже имеет текст реализации
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(16): note: см. предыдущее определение "add_node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(20): error C2027: использование неопределенного типа "Node"
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): note:  см. объявление "Node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(21): error C2027: использование неопределенного типа "Node"
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): note:  см. объявление "Node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(21): error C2227: выражение слева от "->data" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(22): error C2027: использование неопределенного типа "Node"
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): note:  см. объявление "Node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(22): error C2227: выражение слева от "->left" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(23): error C2027: использование неопределенного типа "Node"
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): note:  см. объявление "Node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(23): error C2227: выражение слева от "->right" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(24): error C2027: использование неопределенного типа "Node"
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): note:  см. объявление "Node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(24): error C2227: выражение слева от "->left_height" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(25): error C2027: использование неопределенного типа "Node"
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): note:  см. объявление "Node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(25): error C2227: выражение слева от "->right_height" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(28): error C2027: использование неопределенного типа "Node"
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): note:  см. объявление "Node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(28): error C2227: выражение слева от "->data" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(29): error C2027: использование неопределенного типа "Node"
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): note:  см. объявление "Node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(29): error C2227: выражение слева от "->left" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(31): error C2027: использование неопределенного типа "Node"
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): note:  см. объявление "Node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(31): error C2227: выражение слева от "->right" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(36): error C2027: использование неопределенного типа "Node"
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): note:  см. объявление "Node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(36): error C2227: выражение слева от "->data" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(37): error C2027: использование неопределенного типа "Node"
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): note:  см. объявление "Node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(37): error C2227: выражение слева от "->left" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(39): error C2027: использование неопределенного типа "Node"
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(8): note:  см. объявление "Node"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(39): error C2227: выражение слева от "->right" должно указывать на тип класса, структуры или объединения либо на универсальный тип
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(43): error C2086: Node *head: переопределение
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(43): note:  см. объявление "head"
+d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(47): error C2084: функция "void Main(cli::array<System::String ^,1> ^)" уже имеет текст реализации
+  d:\university\main\programming\problems\pro2\pro2\pro2\Main.cpp(46): note: см. предыдущее определение "Main"

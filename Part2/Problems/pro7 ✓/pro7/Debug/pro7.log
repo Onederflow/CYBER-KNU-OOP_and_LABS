@@ -1,0 +1,4 @@
+﻿  pro7.cpp
+d:\university\main\programming\problems\pro7\pro7\pro7.cpp(240): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pro7.vcxproj -> D:\University\Main\Programming\Problems\pro7\Debug\pro7.exe
+  pro7.vcxproj -> D:\University\Main\Programming\Problems\pro7\Debug\pro7.pdb (Partial PDB)

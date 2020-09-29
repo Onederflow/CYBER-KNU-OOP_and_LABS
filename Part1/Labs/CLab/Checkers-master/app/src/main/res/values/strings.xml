@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Checkers</string>
+    <string name="welcome">Welcome to Checkers!</string>
+    <string name="multiplayer">Online Play</string>
+    <string name="offline">Offline Play</string>
+    <string name="choose_opponent">Choose Opponent</string>
+    <string name="pass_and_play">Pass and play</string>
+    <string name="computer">Computer</string>
+    <string name="resume">Resume Game</string>
+    <string name="rematch">Rematch</string>
+    <string name="menu">Main Menu</string>
+    <string name="blank" />
+</resources>

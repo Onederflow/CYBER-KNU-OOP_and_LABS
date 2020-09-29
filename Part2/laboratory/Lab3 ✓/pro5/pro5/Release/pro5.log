@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  pro5.cpp
+pro5.cpp(160): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+pro5.cpp(219): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  All 111 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  pro5.vcxproj -> D:\University\2 курс\Практичні\Lab3\pro5\Release\pro5.exe
+  pro5.vcxproj -> D:\University\2 курс\Практичні\Lab3\pro5\Release\pro5.pdb (Full PDB)

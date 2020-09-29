@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  pro4.cpp
+d:\university\main\programming\problems\pro4 ✓\pro4\pro4.cpp(23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pro4.vcxproj -> D:\University\Main\Programming\Problems\pro4 ✓\Debug\pro4.exe
+  pro4.vcxproj -> D:\University\Main\Programming\Problems\pro4 ✓\Debug\pro4.pdb (Partial PDB)

@@ -1,0 +1,7 @@
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_2\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_2\Lab_2\obj\Debug\Lab_2.pdb

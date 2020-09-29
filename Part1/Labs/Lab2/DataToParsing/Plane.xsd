@@ -1,0 +1,40 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">	
+	<xs:element name="lab_2">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Plane" type="PlaneType" minOccurs="1" maxOccurs="unbounded" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:complexType name="AmmunitionType">
+		<xs:sequence>
+			<xs:element type="xs:boolean" name="Availability"/>
+			<xs:element type="xs:byte" name="Count"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="CharsType" mixed="true">
+		<xs:sequence>
+			<xs:element type="xs:string" name="Type"/>
+			<xs:element type="xs:byte" name="NumberOfSeats"/>
+			<xs:element type="AmmunitionType" name="Ammunition"/>
+			<xs:element type="xs:boolean" name="Radar"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="ParametersType">
+		<xs:sequence>
+			<xs:element type="xs:double" name="Length"/>
+			<xs:element type="xs:double" name="Height"/>
+			<xs:element type="xs:double" name="Width"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="PlaneType">
+		<xs:sequence>
+			<xs:element type="xs:string" name="Model"/>
+			<xs:element type="xs:string" name="Origin"/>
+			<xs:element type="CharsType" name="Chars"/>
+			<xs:element type="ParametersType" name="Parameters"/>
+			<xs:element type="xs:int" name="Price"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

@@ -1,0 +1,22 @@
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1\Lab_1\bin\Debug\netcoreapp2.1\Lab_1.deps.json
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1\Lab_1\bin\Debug\netcoreapp2.1\Lab_1.runtimeconfig.json
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1\Lab_1\bin\Debug\netcoreapp2.1\Lab_1.runtimeconfig.dev.json
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1\Lab_1\bin\Debug\netcoreapp2.1\Lab_1.dll
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1\Lab_1\bin\Debug\netcoreapp2.1\Lab_1.pdb
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1\Lab_1\obj\Debug\netcoreapp2.1\Lab_1.csprojAssemblyReference.cache
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1\Lab_1\obj\Debug\netcoreapp2.1\Lab_1.csproj.CoreCompileInputs.cache
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1\Lab_1\obj\Debug\netcoreapp2.1\Lab_1.AssemblyInfoInputs.cache
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1\Lab_1\obj\Debug\netcoreapp2.1\Lab_1.AssemblyInfo.cs
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1\Lab_1\obj\Debug\netcoreapp2.1\Lab_1.dll
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1\Lab_1\obj\Debug\netcoreapp2.1\Lab_1.pdb
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1 ✓\Lab_1\bin\Debug\netcoreapp2.1\Lab_1.deps.json
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1 ✓\Lab_1\bin\Debug\netcoreapp2.1\Lab_1.runtimeconfig.json
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1 ✓\Lab_1\bin\Debug\netcoreapp2.1\Lab_1.runtimeconfig.dev.json
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1 ✓\Lab_1\bin\Debug\netcoreapp2.1\Lab_1.dll
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1 ✓\Lab_1\bin\Debug\netcoreapp2.1\Lab_1.pdb
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1 ✓\Lab_1\obj\Debug\netcoreapp2.1\Lab_1.csprojAssemblyReference.cache
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1 ✓\Lab_1\obj\Debug\netcoreapp2.1\Lab_1.csproj.CoreCompileInputs.cache
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1 ✓\Lab_1\obj\Debug\netcoreapp2.1\Lab_1.AssemblyInfoInputs.cache
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1 ✓\Lab_1\obj\Debug\netcoreapp2.1\Lab_1.AssemblyInfo.cs
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1 ✓\Lab_1\obj\Debug\netcoreapp2.1\Lab_1.dll
+D:\Cybernetics\3 year\term 1\Numerical methods in computer science\Labs\Lab_1 ✓\Lab_1\obj\Debug\netcoreapp2.1\Lab_1.pdb

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lab_2>
+	<Plane>
+		<Model>Su-27</Model>
+		<Origin>Ukraine</Origin>
+		<Chars>
+			<Type>interceptor fighter</Type>
+			<NumberOfSeats>2</NumberOfSeats>
+			<Ammunition>
+				<Availability>true</Availability>
+				<Count>10</Count>
+			</Ammunition>
+			<Radar>true</Radar>
+		</Chars>
+		<Parameters>
+			<Length>21.9</Length>
+			<Height>5.9</Height>
+			<Width>14.7</Width>
+		</Parameters>
+		<Price>12345678</Price>
+	</Plane>
+	
+	<Plane>
+		<Model>MIG-29</Model>
+		<Origin>Ukraine</Origin>
+		<Chars>
+			<Type>multipurpose fighter</Type>
+			<NumberOfSeats>1</NumberOfSeats>
+			<Ammunition>
+				<Availability>true</Availability>
+				<Count>7</Count>
+			</Ammunition>
+			<Radar>true</Radar>
+		</Chars>
+		<Parameters>
+			<Length>17.32</Length>
+			<Height>4.73</Height>
+			<Width>11.36</Width>
+		</Parameters>
+		<Price>2345678</Price>
+	</Plane>
+
+</lab_2>

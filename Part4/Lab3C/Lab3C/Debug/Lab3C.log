@@ -1,0 +1,19 @@
+﻿  CppCLR_WinformsProjekt.cpp
+  Termite.cpp
+d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(18): error C3265: нельзя объявлять управляемый "color" в неуправляемом "Lab3::my_rule"
+  d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(18): note: тип значений может не содержать элементов типа управляемый
+d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(19): error C3265: нельзя объявлять управляемый "next_color" в неуправляемом "Lab3::my_rule"
+  d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(19): note: тип значений может не содержать элементов типа управляемый
+d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(35): error C3265: нельзя объявлять управляемый "matrix" в неуправляемом "Lab3::termite"
+  d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(35): note: может не объявлять глобальную или статичную переменную или элемент собственного типа, который относится к объекту в куче сборщика мусора
+d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(35): error C3076: Lab3::termite::matrix: нельзя внедрить экземпляр ссылочного типа "System::Windows::Forms::PictureBox" в собственный тип
+d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(36): error C3265: нельзя объявлять управляемый "bitmapx" в неуправляемом "Lab3::termite"
+  d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(36): note: может не объявлять глобальную или статичную переменную или элемент собственного типа, который относится к объекту в куче сборщика мусора
+d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(36): error C3076: Lab3::termite::bitmapx: нельзя внедрить экземпляр ссылочного типа "System::Drawing::Bitmap" в собственный тип
+d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(43): error C2061: синтаксическая ошибка: идентификатор "string"
+d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(84): error C2062: тип "void" не требуется
+d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(85): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(114): error C2062: тип "bool" не требуется
+d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(115): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+d:\github\study\oop\term 4\laboratory\lab3c\lab3c\termite.cpp(137): fatal error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции
+  CTIPlugin::InvokeCallback=APPCRASHCTIPlugin::InvokeCallback=APPCRASHCTIPlugin::InvokeCallback=APPCRASHCTIPlugin::InvokeCallback=APPCRASHCTIPlugin::InvokeCallback=APPCRASH

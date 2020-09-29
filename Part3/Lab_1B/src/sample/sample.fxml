@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" styleClass="pane" stylesheets="@Style.css" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+    <SplitPane dividerPositions="0.7110552763819096" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" orientation="VERTICAL" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1">
+  <items>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+         <children>
+            <Button id="ButtonStart" fx:id="Button_process" mnemonicParsing="false" onMouseClicked="#StartMainClick" prefHeight="60.0" prefWidth="220.0" text="ПУСК" AnchorPane.leftAnchor="70.0" AnchorPane.topAnchor="20.0" />
+               <Button id="ButtonStopMain" layoutY="88.0" mnemonicParsing="false" onMouseClicked="#StopMainClick" prefHeight="60.0" prefWidth="220.0" text="СТОП" AnchorPane.leftAnchor="310.0" AnchorPane.topAnchor="20.0" />
+               <Button id="ButtonStop2" fx:id="btnStop2" layoutX="421.0" layoutY="44.0" mnemonicParsing="false" onMouseClicked="#StopSecondClick" prefHeight="50.0" prefWidth="160.0" text="СТОП 2" AnchorPane.leftAnchor="370.0" AnchorPane.topAnchor="190.0" />
+               <Button id="ButtonStop1" fx:id="btnStop1" layoutX="162.0" layoutY="113.0" mnemonicParsing="false" onMouseClicked="#StopFirstClick" prefHeight="50.0" prefWidth="160.0" text="СТОП 1" AnchorPane.leftAnchor="70.0" AnchorPane.topAnchor="190.0" />
+               <Button id="ButtonStart1" layoutX="74.0" layoutY="113.0" mnemonicParsing="false" onMouseClicked="#StartFirstClick" prefHeight="50.0" prefWidth="160.0" text="ПУСК 1" AnchorPane.leftAnchor="70.0" AnchorPane.topAnchor="120.0" />
+               <Button id="ButtonStart1" layoutX="395.0" layoutY="101.0" mnemonicParsing="false" onMouseClicked="#StartSecondClick" prefHeight="50.0" prefWidth="160.0" text="ПУСК 2" AnchorPane.leftAnchor="370.0" AnchorPane.topAnchor="120.0" />
+         </children></AnchorPane>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+         <children>
+            <Slider fx:id="slider_x" layoutX="94.0" layoutY="23.0" prefHeight="67.0" prefWidth="411.0" />
+         </children></AnchorPane>
+  </items>
+</SplitPane>
+</AnchorPane>
